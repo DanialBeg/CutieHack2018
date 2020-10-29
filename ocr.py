@@ -8,7 +8,7 @@ import pyrebase
 
 
 config = {
-  "apiKey": "AIzaSyAvf-7certrFQgPVT9ox_TaCn3m1UigYpg",
+  "apiKey": "",
   "authDomain": "dealectable-37d43.firebaseapp.com",
   "databaseURL": "https://dealectable-37d43.firebaseio.com",
   "storageBucket": "gs://dealectable-37d43.appspot.com",
